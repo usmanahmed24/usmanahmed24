@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Usman Ahmed</h1>
+<h1 align="center">Hi There👋, I'm Usman </h1>
 <h3 align="center">CS Undergrad at GSU</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.52b736f2c6e739118e5b9a32a21434ea?rik=WYSbOhj%2fWpOA7g&pid=ImgRaw&r=0">
 
