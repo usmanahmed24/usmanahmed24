@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://usmanahmed24.github.io/Usman-s-Website/](https://usmanahmed24.github.io/Usman-s-Website/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
